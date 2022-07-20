@@ -1,4 +1,3 @@
-# talk_to_me_app
+Application Frontend of talk_to_me
 
-Everything in App.js file
-
+Initiated by App.js
